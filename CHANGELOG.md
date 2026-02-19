@@ -1,5 +1,11 @@
 # kilo-code
 
+## 5.8.1
+
+### Patch Changes
+
+- [#5901](https://github.com/Kilo-Org/kilocode/pull/5901) [`8d7f102`](https://github.com/Kilo-Org/kilocode/commit/8d7f102e77178c6c40fc4a6f80130f041ee038f5) Thanks [@SkipperQ93](https://github.com/SkipperQ93)! - Fix: JetBrains editor initialization when ExtensionHostManager is missing from SystemObjectProvider
+
 ## 5.8.0
 
 ### Minor Changes
